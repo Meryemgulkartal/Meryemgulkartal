@@ -12,5 +12,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/meryemgul.kartal/?next=%2F)
 
 <h2 align="leading">Programming Languages</h2>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,css,dart,,flutter,py)
