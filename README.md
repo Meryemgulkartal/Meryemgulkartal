@@ -2,8 +2,7 @@
 
 ### Who am i ? 
 - :computer: I am studying industrial engineering 2nd grade in Gazi University.
-- :computer: 
-- :computer: 
+- :computer: I want to develop myself in the field of data science
 
 <h2 align="leading">Social Media</h2>
 
